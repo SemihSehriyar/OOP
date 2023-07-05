@@ -1,0 +1,8 @@
+com\mycompany\studentapp\ProjectScoreBehaviour.class
+com\mycompany\studentapp\Student.class
+com\mycompany\studentapp\MasterStudent.class
+com\mycompany\studentapp\PhDStudent.class
+com\mycompany\studentapp\ArticleScoreBehaviour.class
+com\mycompany\studentapp\BachelourStudent.class
+com\mycompany\studentapp\ConferenceScoreBehaviour.class
+com\mycompany\studentapp\StudentApp.class
