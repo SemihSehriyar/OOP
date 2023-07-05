@@ -1,0 +1,6 @@
+com\mycompany\ticketapp\Ticket.class
+com\mycompany\ticketapp\SeatNumberComparator.class
+com\mycompany\ticketapp\DiscountTicket.class
+com\mycompany\ticketapp\TicketSeller.class
+com\mycompany\ticketapp\TicketApp.class
+com\mycompany\ticketapp\StandartTicket.class
